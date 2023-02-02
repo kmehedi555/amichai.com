@@ -1,0 +1,68 @@
+
+
+*{
+box-sizing: border-box;
+}
+
+*{
+    /* padding: 5px; */
+}
+
+body{
+    max-width: 50%;
+}
+
+.topnav{
+    
+}
+
+
+.logo-name{
+    padding-top: 5px;
+    font-size: 25px;
+    /* display: none; */
+}
+
+.sidebar{
+    width: 150px;
+}
+
+
+.home{
+    left: 150px;  
+          
+}
+
+.colum{
+    /* width: 100%; */
+    /* font-size: 100%; */
+
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+
+    .colum{
+        flex: 20%;
+        padding: 5px;
+    }
+
+    .btn{
+        width: 7%;
+    }
+
+    .bi-facebook, .bi-twitter, .bi-whatsapp{
+        /* display: none; */
+    }
+
+    .input-group{
+        margin-right: 45px;
+    }
+
+    .content1{
+        
+    }
+
